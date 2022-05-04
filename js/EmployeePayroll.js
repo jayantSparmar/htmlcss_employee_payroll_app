@@ -85,8 +85,8 @@ class EmployeePayRollData{
 
     set startDate(startDate)
     {
-        let datee = new Date();
-        if(startDate<=datee)
+        let date = new Date();
+        if(startDate<=date)
         {
         this._startDate = startDate;
         }
