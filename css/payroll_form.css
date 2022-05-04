@@ -1,11 +1,12 @@
 body{
     margin:0px;
     height: 100%;
+
 }
 
 .header{
-    padding:15px 0;
-    background-color: #ffffff;
+    padding:15px;
+    background-color:#0a0909;
 }
 
 .header-content{
@@ -47,7 +48,7 @@ body{
 
 .form-content{
     min-height: calc(100% - 80px);
-   background-color: #f7f7f7;
+   background-color: #6671ea;
    display: flex;
    justify-content: center;
    align-items: center; 
